@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.4.0.3-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="540.004pt" height="360.003pt" viewBox="815.421 -1442.58 540.004 360.003">
+ <defs>
+	</defs>
+ <g id="Layer 1" transform="scale(1 -1)"/>
+ <g id="BACKGROUND" transform="scale(1 -1)"/>
+ <g id="OBJECTS" transform="scale(1 -1)"/>
+ <g id="No signal screen" transform="scale(1 -1)">
+  <g id="Group" stroke-linejoin="miter" stroke="none" stroke-width="0.18">
+   <path d="M 1278.28,1163.92 L 1278.28,1138.83 L 1201.14,1138.83 L 1201.14,1163.92 L 1278.28,1163.92 Z" fill="#000000" marker-start="none" marker-end="none"/>
+   <path d="M 1201.14,1163.92 L 1201.14,1138.83 L 1124,1138.83 L 1124,1163.92 L 1201.14,1163.92 Z" fill="#99d4d3" marker-start="none" marker-end="none"/>
+   <path d="M 1124,1163.92 L 1124,1138.83 L 1046.85,1138.83 L 1046.85,1163.92 L 1124,1163.92 Z" fill="#000000" marker-start="none" marker-end="none"/>
+   <path d="M 1046.85,1163.92 L 1046.85,1138.83 L 969.708,1138.83 L 969.708,1163.92 L 1046.85,1163.92 Z" fill="#6abd43" marker-start="none" marker-end="none"/>
+   <path d="M 969.708,1163.92 L 969.708,1138.83 L 892.565,1138.83 L 892.565,1163.92 L 969.708,1163.92 Z" fill="#000408" marker-start="none" marker-end="none"/>
+   <path d="M 892.565,1163.92 L 892.565,1138.83 L 815.421,1138.83 L 815.421,1163.92 L 892.565,1163.92 Z" fill="#2657a8" marker-start="none" marker-end="none"/>
+   <path d="M 1355.43,1163.92 L 1355.43,1138.83 L 1278.28,1138.83 L 1278.28,1163.92 L 1355.43,1163.92 Z" fill="#cccccc" marker-start="none" marker-end="none"/>
+   <path d="M 892.565,1442.58 L 892.565,1163.92 L 815.421,1163.92 L 815.421,1442.58 L 892.565,1442.58 Z" fill="#cccccc" marker-start="none" marker-end="none"/>
+   <path d="M 969.708,1442.58 L 969.708,1163.92 L 892.565,1163.92 L 892.565,1442.58 L 969.708,1442.58 Z" fill="#e9e72d" marker-start="none" marker-end="none"/>
+   <path d="M 1046.85,1442.58 L 1046.85,1163.92 L 969.708,1163.92 L 969.708,1442.58 L 1046.85,1442.58 Z" fill="#5fc8d4" marker-start="none" marker-end="none"/>
+   <path d="M 1124,1442.58 L 1124,1163.92 L 1046.85,1163.92 L 1046.85,1442.58 L 1124,1442.58 Z" fill="#ae56a1" marker-start="none" marker-end="none"/>
+   <path d="M 1201.14,1442.58 L 1201.14,1163.92 L 1124,1163.92 L 1124,1442.58 L 1201.14,1442.58 Z" fill="#6abd43" marker-start="none" marker-end="none"/>
+   <path d="M 1278.28,1442.58 L 1278.28,1163.92 L 1201.14,1163.92 L 1201.14,1442.58 L 1278.28,1442.58 Z" fill="#ef3e3a" marker-start="none" marker-end="none"/>
+   <path d="M 1355.43,1442.58 L 1355.43,1163.92 L 1278.28,1163.92 L 1278.28,1442.58 L 1355.43,1442.58 Z" fill="#2657a8" marker-start="none" marker-end="none"/>
+   <path d="M 905.422,1082.57 L 815.421,1082.57 L 815.421,1138.83 L 905.422,1138.83 L 905.422,1082.57 Z" fill="#142a50" marker-start="none" marker-end="none"/>
+   <path d="M 995.423,1082.57 L 905.422,1082.57 L 905.422,1138.83 L 995.423,1138.83 L 995.423,1082.57 Z" fill="#cccccc" marker-start="none" marker-end="none"/>
+   <path d="M 1085.42,1082.57 L 995.423,1082.57 L 995.423,1138.83 L 1085.42,1138.83 L 1085.42,1082.57 Z" fill="#362c7a" marker-start="none" marker-end="none"/>
+   <path d="M 1175.42,1082.57 L 1085.42,1082.57 L 1085.42,1138.83 L 1175.42,1138.83 L 1175.42,1082.57 Z" fill="#000408" marker-start="none" marker-end="none"/>
+   <path d="M 1265.43,1082.57 L 1175.42,1082.57 L 1175.42,1138.83 L 1265.43,1138.83 L 1265.43,1082.57 Z" fill="#131719" marker-start="none" marker-end="none"/>
+   <path d="M 1355.43,1082.57 L 1265.43,1082.57 L 1265.43,1138.83 L 1355.43,1138.83 L 1355.43,1082.57 Z" fill="#000000" marker-start="none" marker-end="none"/>
+  </g>
+ </g>
+</svg>
